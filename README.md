@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stiagoc95
 - 👀 I’m interested in colaborate with my work mates
 - 🌱 I’m currently learning to use GitHub and quantum computing
-- 💞️ I’m looking to collaborate on app code woth my work mates
+- 💞️ I’m looking to collaborate on app code with my work mates
 - 📫 How to reach me stiagoc95@gmail.com
 
 <!---
